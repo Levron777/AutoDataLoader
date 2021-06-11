@@ -69,7 +69,14 @@
     <Compile Include="AutoDataLoader.Designer.cs">
       <DependentUpon>AutoDataLoader.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\Controller.cs" />
     <Compile Include="DataBase.cs" />
+    <Compile Include="Models\Cars.cs" />
+    <Compile Include="Models\Motorcycles.cs" />
+    <Compile Include="Models\Outlets.cs" />
+    <Compile Include="Models\MainDataClass.cs" />
+    <Compile Include="Models\RussianOutlets.cs" />
+    <Compile Include="Models\Sales.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomDataCreator.cs">
@@ -121,5 +128,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
