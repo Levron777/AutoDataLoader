@@ -1,0 +1,5 @@
+Ducati, Suzuki, Yamaha, BMW, Honda, Kawasaki, Triumph, Harley-Davidson, KTM
+NINJAH2R, T120 Bonneville, EL, CB750, CT70 TRAIL, GL1000 Gold Wing, Low Rider, ZX900 NINJA, GXS-R 750, M900 Monster
+Sportbike, Street, Off-road, Cruiser, Scooter
+345000, 954000, 1056300, 1155000, 845450, 560000, 940000, 152133, 1504500
+3254464, 86846, 3423425, 1223414, 1225451, 5637347, 78449084, 4606804, 5464646, 5324514
